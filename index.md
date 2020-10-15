@@ -95,16 +95,6 @@ Standarisasi WiFi 802.11n adalah standar yang paling umum digunakan saat ini dan
 5. Standarisasi 802.11ac
 Standarisasi 802.11ac adalah standar terbaru yang diperkenalkan pada awal 2013. Standarisasi Ini belum diadopsi secara luas dan masih dalam bentuk draft di Institute of Electrical and Electronics Engineers (IEEE), tetapi perangkat yang mendukungnya sudah ada yang tersedia di pasaran. Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah. Seperti 802.11n, Standarisasi ini memungkinkan transmisi pada beberapa aliran spasial hingga delapan aliran jalur.
 
-
-#### Kelebihan Wifi
-Home » Kekurangan » Kelebihan » Wi-Fi » Kelebihan dan Kekurangan Wi-Fi
-BY SALMAN FAUZAN KEKURANGAN KELEBIHAN WI-FI
-Kelebihan dan Kekurangan Wi-Fi
-Sebelum kita membahas Kelebihan dan Kekurangan Wi-Fi, alangkah baiknya kita harus mengenal apa itu pengertian Wi-Fi. Wi-Fi adalah sebuah teknologi yang mempunyai kegunaan atau manfaat untuk bertukar data secara nirkabel (menggunakan gelombang radio) oleh karena itu dengan mempergunakan teknologi nirkabel Wi-Fi dapat mentransfer data lebih cepat dan aman. Berikut di bawah ini saya akan jelaskan beberapa Kelebihan dan Kekurangan Wi-Fi :
-
-
-
-
 #### -Kelebihan :
 * Produk Wi-Fi tersedia secara luas di pasaran.
 * Network ini di design untuk punya symetric up and down speed.
