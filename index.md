@@ -23,4 +23,21 @@
 
   Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi inframerah memiliki jangkauan tiga “order” dan memiliki panjang gelombang antara 700 nm dan 1 mm, Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
   
- ### ![Image](rared.jpg)
+
+### ![Image](rared.jpg)
+
+### -Jenis-Jenis Infrared
+* Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
+* Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
+* Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm. Sinar infrared ada pada cahaya api,cahaya matahari, radiator kendaraan atau pantulan jalan aspal yang terpapar panas.
+
+
+### -Kelebihan Infrared
+* Pengiriman data dengan infra merah dapat dilakukan kapan saja, karena pengiriman dengan inframerah tidak membutuhkan sinyal.
+* Pengiriman data dengan infra merah dapat dikatakan mudah karena termasuk alat yang sederhana.
+* Pengiriman data dari ponsel tidak memakan biaya (gratis).
+
+### -Kekurangan Infrared
+* Pada pengiriman data dengan inframerah, kedua lubang inframerah harus berhadapan satu sama lain. Hal ini agak menyulitkan kita dalam mentransfer data karena caranya yang merepotkan.
+* Infrared sangat berbahaya bagi mata, sehingga jangan sekalipun sorotan inframerah mengenai mata
+* Pengiriman data dengan inframerah dapat dikatakan lebih lambat dibandingkan dengan rekannya bluetooth.
