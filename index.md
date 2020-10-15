@@ -76,3 +76,21 @@ Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perleng
 Contoh alat yang dapat memakai Wi-Fi (seperti komputer, laptop, smartphone, dan tablet) dapat terhubung dengan sumber jaringan seperti internet melalui sebuah titik akses jaringan nirkabel. Titik akses (hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan.
 
 ![Image](wifi.jpg)
+
+#### Standar Jaringan WiFi 802.11
+Seiring dengan perkembangan teknologi WIFI, saat ini terdapat beberapa standar jaringan WiFi yang umum digunakan. Berikut ini adalah beberapa Standarisasi WiFi 802.11 yang umum digunakan.
+
+1. Standarisasi 802.11a
+Standarisasi 802.11a dapat mentransmisikan sinyal pada frekuensi 5GHz dengan kecepatan koneksi hingga 54 Mbps (Megabit data per detik). 802.11a ini menggunakan Orthogonal Frequency-Division Multiplexing (OFDM) yaitu teknik pengkodean yang lebih efisien yang membagi sinyal radio menjadi beberapa sub-sinyal sebelum mencapai penerima sehingga dapat mengurangi gangguna atau interference dalam koneksi.
+
+2. Standarisasi 802.11b
+802.11b adalah standard WiFi yang koneksinya paling lambat dengan harga yang paling murah. Standarisasi 802.11b pernah menjadi sangat popular karena harganya yang murah, tetapi sekarang menjadi kurang umum karena standarisasi WiFi dengan koneksi yang lebih cepat menjadi semakin murah. 802.11b yang mentransmisikan sinyal dalam pita frekuensi 2,4 GHz spektrum radio ini dapat menangani kecepatan hingga 11 Mbps (megabit data per detik) dan menggunakan modulasi Kode Kunci Pelengkap atau Complementary Code Keying (CCK) untuk meningkatkan kecepatannya.
+
+3. Standarisasi 802.11g
+802.11g menggunakan pita frekuensi 2,4 GHz Spektrum Radio seperti pada standarisasi 802.11b, tetapi kecepatan 802.11g jauh lebih cepat dibandingkan dengan standarisasi 802.11b.  Standarisasi WiFi 802.11g dapat menangani kecepatan koneksi hingga 54 megabit data per detik. Standarisasi WiFi ini dapat lebih cepat karena menggunakan pengkodean OFDM yang sama dengan 802.11a.
+
+4. Standarisasi 802.11n
+Standarisasi WiFi 802.11n adalah standar yang paling umum digunakan saat ini dan kompatibel dengan standarisasi lainnya seperti standarisasi 802.11a, b dan g. Standarisasi WiFi 802.11n ini memiliki peningkatan kecepatan dan jangkauan yang signifikan daripada pendahulunya. Standarisasi 802.11n dilaporkan dapat mencapai kecepatan setinggi 600 megabit per detik. Standarisasi 802.11n ini dapat mentransmisikan hingga empat aliran jalur data (4 spatial streams), tetapi sebagian besar router WiFi hanya memungkinkan untuk mentransmisikan dua atau tiga aliran jalur saja. WiFi 802.11n menggunakan pita frekuensi 2,4GHz dan 5GHz.
+
+5. Standarisasi 802.11ac
+Standarisasi 802.11ac adalah standar terbaru yang diperkenalkan pada awal 2013. Standarisasi Ini belum diadopsi secara luas dan masih dalam bentuk draft di Institute of Electrical and Electronics Engineers (IEEE), tetapi perangkat yang mendukungnya sudah ada yang tersedia di pasaran. Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah. Seperti 802.11n, Standarisasi ini memungkinkan transmisi pada beberapa aliran spasial hingga delapan aliran jalur.
