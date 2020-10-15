@@ -41,3 +41,10 @@
 * Pada pengiriman data dengan inframerah, kedua lubang inframerah harus berhadapan satu sama lain. Hal ini agak menyulitkan kita dalam mentransfer data karena caranya yang merepotkan.
 * Infrared sangat berbahaya bagi mata, sehingga jangan sekalipun sorotan inframerah mengenai mata
 * Pengiriman data dengan inframerah dapat dikatakan lebih lambat dibandingkan dengan rekannya bluetooth.
+
+## Bluetooth
+
+  Bluetooth adalah suatu peralatan media komunikasi yang dapat digunakan untuk menghubungkan sebuah perangkat komunikasi dengan perangkat komunikasi lainnya, bluetooth umumnya digunakan di handphone, komputer atau pc, tablet, dan lain-lain. Fungsi bluetooth yaitu untuk mempermudah berbagi atau sharing file, audio, menggantikan penggunaan kabel dan lain-lain. Saat ini sudah banyak sekali perangkat yang menggunakan bluetooth.
+  
+  
+ ![Image](  
