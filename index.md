@@ -75,5 +75,4 @@ Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perleng
   Wi-Fi adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi, WiFi juga merupakan Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlukan kabel dengan koneksi kecepatan yang tinggi. Wi-Fi sering disebut juga dengan WLAN atau Wireless Local Area Network, Sinyal Radio adalah kunci yang memungkinan komunikasi dalam jaringan WiFi. Teknologi WiFi ini menggunakan dua frekuensi gelombang radio dalam mengirimkan dan menerima sinyal Radio. Kedua Frekuensi gelombang radio tersebut adalah Frekuensi 2,4GHz dan 5GHz.
 Contoh alat yang dapat memakai Wi-Fi (seperti komputer, laptop, smartphone, dan tablet) dapat terhubung dengan sumber jaringan seperti internet melalui sebuah titik akses jaringan nirkabel. Titik akses (hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan.
 
-
-
+![Image](wifi.jpg)
