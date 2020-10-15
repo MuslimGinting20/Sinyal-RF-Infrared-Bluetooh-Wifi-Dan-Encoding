@@ -116,3 +116,29 @@ Standarisasi 802.11ac adalah standar terbaru yang diperkenalkan pada awal 2013. 
 * Jalur akses dapat digunakan untuk mencuri informasi pribadi dan rahasia ditransmisikan dari konsumen Wi-Fi.
 * Jaringan Wi-Fi memiliki rentang yang terbatas. Sebuah router Wi-Fi rumah mungkin memiliki kisaran 45m (150ft) indoor dan 90 juta (300ft) di luar rumah.
 * Konsumsi Power yang cukup tinggi jika dibandingkan dengan beberapa standar lainnya, membuat masa pakai baterai berkurang dan panas.
+
+## ENCODING
+
+Pengertian Encoding
+Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses yang terlibat (data dan sinyal) transmisi data, Pengkodean karakter atau pengkodean karakter disebut, terdiri dari kode yang pasang urutan karakter dari kumpulan dengan sesuatu yang lain. Sebagai urutan bilangan natural, oktet atau pulsa elektrik. jadi encoding adalah gambaran satu set password ke set sandi lain.
+
+### Macam-Macam Encoding
+
+* Kode Baudot Berawal dari kode morse. Ada kode 4-an, 5-an, 6-an, dan 8-an yang digunakan untuk pengiriman telegraph yang disimpan di pita berupa lubang tutup. Untuk lubang sebanyak 6x berturut-turut disebut sebagai kode 6-an.
+* Standard Code (American figure. for Information Interchange). Didefinisikan sebagai kode 7 bit (sehingga dapat dibuat 128 karakter). Masing-masing yaitu 0-32 untuk karakter kontrol (unprintable) dan 32-127 untuk karakter yang tercetak (printable). Dalam transmisi synkron tiga karakter terdiri dari 10 atau 11 bit: 1 bit awal, 7 bit data, 1 atau 2 bit akhir dan 1 bit paritas.
+* Kode 4 atau Kode 8. Kombinasi yang diijinkan adalah 4 bit “1” dan 4 bit “0” sehingga dapat dibuat kombinasi 70 karakter.
+* Kode BCD (Binary Code Desimal). Terdiri dari 6 bit perkarakter dengan kombinasi 64 karakter. Untuk synkron terdiri dari 9 bit: 1 bit awal, 6 bit data, 1 bit paritas dan 1 bit akhir.
+* Kode EBCID. Menggunakan 8 bit perkarakter dengan 256 kombinasi karakter.
+
+#### Ketentuan Proses Encoding
+
+* Unipolar: Semua elemen-elemen sinyal dalam bentuk yang sama.
+* Polar: Satu state logic dinyatakan oleh tegangan positif dan sebaliknya oleh tegangan negatif.
+* Rating Data: Rating data transmisi data dalam bit per second.
+* Durasi atau panjang suatu bit Waktu yang dibutuhkan pemancar untuk memancarkan bit.
+* Rating modulasi: Rating dimana level sinyal berubah dan diukur dalam bentuk elemen-elemen sinyal per detik.
+* Tanda dan ruang: Biner 1 dan biner 0 berturut-turut.
+
+
+
+*by:Muslim Ginting Munthe
