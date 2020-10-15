@@ -56,14 +56,14 @@ Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perleng
 
 ### Kelebihan Dan Kekurangan Bluetooth
 
-- Kelebihan:
+#### - Kelebihan:
 * Bisa menembus rintangan, misalnya seperti dinding, kotak, dan sebagainya. Walaupun jarak transmisinya hanya 10 M.
 * Tidak memerlukan media kabel ataupun kawat.
 * Dapat mensingkronisasi data dari Handphone ke Komputer atau laptop.
 * Dapat dipakai sebagai perantara modem.
 * Praktis dan tidk ribet dalam penggunaanya.
 
-- Kekurangan:
+#### - Kekurangan:
 * Memakai frekuensi yang sama dengan gelombang WiFi.
 * Kalau terlalu banyak koneksi bluetooth didalam satu ruangan, akan sulit untuk menemukan penerima yang dituju.
 * Sering beredar virus-virus yang disebarkan melalui bluetooth, khususnya dari handphone.
