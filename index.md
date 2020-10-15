@@ -48,3 +48,27 @@
   
   
  ![Image](buth.jpeg)
+ 
+ ### Prinsip Kerja Bluetooth
+ 
+  Bluetooth sebenarnya muncul ditujukan guna mengatasi sejumlah kendala komunikasi data antar peranti elektronik yang lebih dahulu hadir, Bluetooth bekerja memakai frekuensi radio. Beda dengan inframerah yang mendasarkan diri pada gelombang cahaya. Jaringan Bluetooth bekerja pada frekuensi 2.402 Giga Hertz hingga dengan 2.480 Giga Hertz. Dibangkitkan dengan daya listrik kecil sehingga memberi batas daya jangkaunya melulu sampai 10 meter.
+Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perlengkapan elektronik yang digunakan untuk kepentingan industri, ilmiah, dan medis. Kecepatan transfer data Bluetooth rilis 1.0 ialah 1 mega bit per detik (Mbps), sementara versi 2.0 dapat menangani pertukaran data sampai 3 Mbps.
+
+### Kelebihan Dan Kekurangan Bluetooth
+
+- Kelebihan:
+* Bisa menembus rintangan, misalnya seperti dinding, kotak, dan sebagainya. Walaupun jarak transmisinya hanya 10 M.
+* Tidak memerlukan media kabel ataupun kawat.
+* Dapat mensingkronisasi data dari Handphone ke Komputer atau laptop.
+* Dapat dipakai sebagai perantara modem.
+* Praktis dan tidk ribet dalam penggunaanya.
+
+- Kekurangan:
+* Memakai frekuensi yang sama dengan gelombang WiFi.
+* Kalau terlalu banyak koneksi bluetooth didalam satu ruangan, akan sulit untuk menemukan penerima yang dituju.
+* Sering beredar virus-virus yang disebarkan melalui bluetooth, khususnya dari handphone.
+* Cukup banyak mekanisme keamanan yang harus diperhatikan untuk mencegah kegagalan pengiriman data atau penerimaan data maupun informasi.
+* Kecepatan dalam transfer data tidak tetap, tergantung dari perangkat yang dipakai untuk mengirim dan yang menerima data maupun informasi.
+
+
+
