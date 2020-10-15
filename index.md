@@ -142,4 +142,4 @@ Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses y
 
 
 
-### *Muslim Ginting Munthe*
+### *by : Muslim Ginting Munthe*
