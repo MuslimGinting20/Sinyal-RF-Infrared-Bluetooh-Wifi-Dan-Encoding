@@ -94,3 +94,35 @@ Standarisasi WiFi 802.11n adalah standar yang paling umum digunakan saat ini dan
 
 5. Standarisasi 802.11ac
 Standarisasi 802.11ac adalah standar terbaru yang diperkenalkan pada awal 2013. Standarisasi Ini belum diadopsi secara luas dan masih dalam bentuk draft di Institute of Electrical and Electronics Engineers (IEEE), tetapi perangkat yang mendukungnya sudah ada yang tersedia di pasaran. Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah. Seperti 802.11n, Standarisasi ini memungkinkan transmisi pada beberapa aliran spasial hingga delapan aliran jalur.
+
+
+#### Kelebihan Wifi
+Home » Kekurangan » Kelebihan » Wi-Fi » Kelebihan dan Kekurangan Wi-Fi
+BY SALMAN FAUZAN KEKURANGAN KELEBIHAN WI-FI
+Kelebihan dan Kekurangan Wi-Fi
+Sebelum kita membahas Kelebihan dan Kekurangan Wi-Fi, alangkah baiknya kita harus mengenal apa itu pengertian Wi-Fi. Wi-Fi adalah sebuah teknologi yang mempunyai kegunaan atau manfaat untuk bertukar data secara nirkabel (menggunakan gelombang radio) oleh karena itu dengan mempergunakan teknologi nirkabel Wi-Fi dapat mentransfer data lebih cepat dan aman. Berikut di bawah ini saya akan jelaskan beberapa Kelebihan dan Kekurangan Wi-Fi :
+
+
+
+
+#### -Kelebihan :
+* Produk Wi-Fi tersedia secara luas di pasaran.
+* Network ini di design untuk punya symetric up and down speed.
+* Wi-Fi merupakan pilihan jaringan yang sangat ekonomis karena harga paket ship Wi-Fi yang terus menurun.
+* Tersebar Luas di lebih dari 250.000 tempat umum, jutaan rumah, perusahaan dan universitas di seluruh dunia.
+* Memungkinkan LAN untuk digunakan tanpa kabel, biasanya mengurangi biaya penyebaran jaringan dan ekspansi. Ruang di mana kabel tidak dapat dijalankan, seperti area outdoor dan bangunan bersejarah, dapat menggunakan LAN Wireless.
+* Wi-Fi dikembangkan tanpa kabel dan menggunakan gelombang radio dengan frekuensi 2,4 GHz. Selain itu Wi-Fi dapat mengirim dan menerima kapasitas sampai 54Mbps.
+* Wi-Fi menggunakan jalur akses jaringan / hot spot, dapat berkomunikasi ke semua komputer dan laptop.Wireless klien: PCMACIA / PC Card, Gateway, server, modem, router dan proxy.
+* Wi-Fi adalah perangkat standar global. 
+* Tidak seperti operator selular, klien Wi-Fi yang sama bekerja di berbagai negara di seluruh dunia.
+
+#### -Kekurangan :
+* Wi-Fi menggunakan spektrum 2.4GHz tanpa izin, dimana yang sering bertabrakan dengan perangkat lain seperti Bluetooth, oven microwave, telepon tanpa kabel, atau perangkat pengirim video, banyak lainnya. Hal ini dapat menyebabkan penurunan kinerja.
+* Adanya kelemahan yang terletak pada konfigurasi dan jenis enkripsi. Kelemahan tersbut diakibatkan karena terlalu mudahnya membangun sebuah jaringan wireless.
+* Jalur akses gratis dapat digunakan oleh orang tak dikenal dan berbahaya untuk melakukan serangan yang akan sangat sulit untuk melacak di luar jalur akses pemilik.
+* Penyaluran Gelombang dan keterbatasan operasional yang tidak konsisten di seluruh dunia.
+* Wired Equivalent Privacy (WEP) yang menjadi standart keamanan wireless sebelumnya dapat dengan mudah dipecahkan dengan berbagai tools yang tersedia gratis di internet.
+* Intervensi pada jalur akses tertutup atau dienkripsi dengan jalur akses terbuka yang lainnya pada saluran yang sama atau dekat dapat mencegah akses ke jalur akses yang terbuka oleh orang lain di daerah tersebut. Ini menimbulkan masalah tinggi di daerah kepadatan tinggi seperti blok apartemen besar di mana banyak penduduk beroperasi poin akses Wi-Fi.
+* Jalur akses dapat digunakan untuk mencuri informasi pribadi dan rahasia ditransmisikan dari konsumen Wi-Fi.
+* Jaringan Wi-Fi memiliki rentang yang terbatas. Sebuah router Wi-Fi rumah mungkin memiliki kisaran 45m (150ft) indoor dan 90 juta (300ft) di luar rumah.
+* Konsumsi Power yang cukup tinggi jika dibandingkan dengan beberapa standar lainnya, membuat masa pakai baterai berkurang dan panas.
