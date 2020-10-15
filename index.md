@@ -4,7 +4,7 @@
 
 ### ![Image](https://github.com/MuslimGinting20/Bentuk-Frekuensi-AM-dan-FM/blob/main/Bentuk-Frekuensi-AM-dan-FM.jpg)
 
-## Sifat-Sifat Sinyal RF
+### Sifat-Sifat Sinyal RF
 
   Sinyal RF merambat di antara antena pemancar pengirim dan penerima. Seperti yang diilustrasikan Gambar 2.7, sinyal yang dipasok pada antena memiliki amplitudo, frekuensi, dan interval. Sifat-sifat tersebut berubah-ubah setiap saat untuk merepresentasikan informasi. Amplitudo mengindikasikan kekuatan sinyal. Ukuran untuk amplitudo biasanya berupa energi yang dianalogikan dengan jumlah usaha yang digunakan seseorang pada waktu mengendarai sepeda untuk mencapai jarak tertentu. Energi, dalam konteks sinyal elektromagnetik, menggambarkan jumlah energi yang diperlukan untuk mendorong sinyal pada jarak tertentu. Saat energi meningkat, jaraknya pun juga bertambah. Gambar 2.7: Amplitudo, Frekuensi, dan Interval merupakan elemen dasar pada sinyal RF, Saat sinyal radio merambat melalui udara, sinyal tersebut kehilangan amplitudo. Jika jarak antara pengirim dan penerima bertambah, amplitudo sinyal menurun secara eksponensial. Pada lingkungan yang terbuka, di mana tidak ada rintangan, sinyal RF mengalamai apa yang disebut para engineer sebagai free-space loss yang merupakan bentuk dari pelemahan. Kondisi tersebut menyebabkan sinyal yang telah dimodulasi melemah secara eksponensial saat sinyal merambat semakin jauh dari antena. Oleh karena itu, sinyal harus memiliki cukup energi untuk mencapai jarak di mana tingkat sinyal bisa diterima sesuai yang dibutuhkan receiver. Kemampuan receiver dalam menerima sinyal tergantung pada kehadiran sinyal-sinyal RF lain yang berada di dekatnya. Frekuensi menyatakan beberapa kali sinyal berulang setiap detiknya. Satuan frekuensi adalah Hertz Hz yang merupakan jumlah siklus yang muncul setiap detik. Sebagai contoh, LAN nirkabel 802.11 beroperasi pada frekuensi 2,4 GHz yang berarti mencakup 2.400.000.000 siklus per detik. Interval berkaitan dengan seberapa jauh suatu sinyal tetap konstan pada titik acuan.
 
@@ -47,4 +47,4 @@
   Bluetooth adalah suatu peralatan media komunikasi yang dapat digunakan untuk menghubungkan sebuah perangkat komunikasi dengan perangkat komunikasi lainnya, bluetooth umumnya digunakan di handphone, komputer atau pc, tablet, dan lain-lain. Fungsi bluetooth yaitu untuk mempermudah berbagi atau sharing file, audio, menggantikan penggunaan kabel dan lain-lain. Saat ini sudah banyak sekali perangkat yang menggunakan bluetooth.
   
   
- ![Image](  
+ ![Image](buth.jpeg)
