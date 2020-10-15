@@ -1,4 +1,4 @@
-##  Pengertian Sinyal RF
+##  SINYAL RF
 
   Sinyal RF merupakan gelombang elektromagnetik yang digunakan oleh sistem komunikasi untuk mengirim informasi melalui udara dari satu titik ke titik lain. Sinyal RF telah digunakan selama beberapa tahun. Sinyal tersebut memberikan cara untuk mengirimkan musik pada radio FM dan video pada televisi. Pada kenyataannya, sinyal RF juga merupakan sarana umum untuk mengirim data melalui jaringan wireless.
 
@@ -19,7 +19,7 @@
 2. Sinyal RF mudah terganggu oleh sistem berbasis RF eksternal lain.
 3. Perambatan radio melalui sebuah fasilitas lebih rentan.
 
-## Infrared
+## INFRARED
 
   Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi inframerah memiliki jangkauan tiga “order” dan memiliki panjang gelombang antara 700 nm dan 1 mm, Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
   
@@ -42,7 +42,7 @@
 * Infrared sangat berbahaya bagi mata, sehingga jangan sekalipun sorotan inframerah mengenai mata
 * Pengiriman data dengan inframerah dapat dikatakan lebih lambat dibandingkan dengan rekannya bluetooth.
 
-## Bluetooth
+## BLUETOOTH
 
   Bluetooth adalah suatu peralatan media komunikasi yang dapat digunakan untuk menghubungkan sebuah perangkat komunikasi dengan perangkat komunikasi lainnya, bluetooth umumnya digunakan di handphone, komputer atau pc, tablet, dan lain-lain. Fungsi bluetooth yaitu untuk mempermudah berbagi atau sharing file, audio, menggantikan penggunaan kabel dan lain-lain. Saat ini sudah banyak sekali perangkat yang menggunakan bluetooth.
   
@@ -69,6 +69,11 @@ Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perleng
 * Sering beredar virus-virus yang disebarkan melalui bluetooth, khususnya dari handphone.
 * Cukup banyak mekanisme keamanan yang harus diperhatikan untuk mencegah kegagalan pengiriman data atau penerimaan data maupun informasi.
 * Kecepatan dalam transfer data tidak tetap, tergantung dari perangkat yang dipakai untuk mengirim dan yang menerima data maupun informasi.
+
+## WIFI
+
+  Wi-Fi adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi, WiFi juga merupakan Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlukan kabel dengan koneksi kecepatan yang tinggi. Wi-Fi sering disebut juga dengan WLAN atau Wireless Local Area Network, Sinyal Radio adalah kunci yang memungkinan komunikasi dalam jaringan WiFi. Teknologi WiFi ini menggunakan dua frekuensi gelombang radio dalam mengirimkan dan menerima sinyal Radio. Kedua Frekuensi gelombang radio tersebut adalah Frekuensi 2,4GHz dan 5GHz.
+Contoh alat yang dapat memakai Wi-Fi (seperti komputer, laptop, smartphone, dan tablet) dapat terhubung dengan sumber jaringan seperti internet melalui sebuah titik akses jaringan nirkabel. Titik akses (hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan.
 
 
 
