@@ -2,4 +2,4 @@
 
 Sinyal RF merupakan gelombang elektromagnetik yang digunakan oleh sistem komunikasi untuk mengirim informasi melalui udara dari satu titik ke titik lain. Sinyal RF telah digunakan selama beberapa tahun. Sinyal tersebut memberikan cara untuk mengirimkan musik pada radio FM dan video pada televisi. Pada kenyataannya, sinyal RF juga merupakan sarana umum untuk mengirim data melalui jaringan wireless.
 
-![Image](Bentuk-Frekuensi-AM-dan-FM)
+![Image](https://github.com/MuslimGinting20/Bentuk-Frekuensi-AM-dan-FM/blob/main/Bentuk-Frekuensi-AM-dan-FM.jpg)
